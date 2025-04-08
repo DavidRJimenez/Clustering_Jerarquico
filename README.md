@@ -1,5 +1,7 @@
 
 
+📊 Clustering Jerárquico con el Dataset de Iris
+
 Este proyecto implementa distintas técnicas de clustering jerárquico utilizando el popular dataset Iris, aplicando diferentes métodos de enlace y visualizando los resultados mediante dendrogramas y reducción de dimensionalidad con PCA.
 👥 Autores
 
